@@ -1,0 +1,36 @@
+h1 {
+	color: grey;
+}
+body{
+	background-color: #D0DDD7
+}
+h2{
+	color: #A9A9A9
+}
+h3{
+	color: #808080
+}
+#titre{
+	text-align: center;
+}
+.card-white{
+	text-align: center;
+}
+ul{
+	list-style: none;
+}
+h1{
+	font-family: "Helvetica", sans-serif;
+}
+h2{
+	font-family: "Courier", sans-serif;
+}
+
+#avatar {
+	border-radius: 50%;
+}
+.card-white{
+	background: #AFC2D5;
+	color: black;
+	border-radius: 10%;
+}
